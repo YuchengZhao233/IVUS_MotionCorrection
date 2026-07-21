@@ -11,14 +11,14 @@ Intravascular ultrasound (IVUS) is prone to cardiac motion artifacts that cause 
 
 ## Performance
 
-Longitudinal view before and after correction
+Longitudinal view before and after correction.
 
 ![LongitudinalView](./assets/LongitudinalView.png)
 
-Sequence video before and after correction
+Sequence video before and after correction.
 
 ![SeqGIF](./assets/SeqGIF.gif)
 
-Three-dimensional reconstruction of membrane segmentations before and after correction
+Three-dimensional reconstruction of membrane segmentations before and after correction. (The protrusion indicated by the red arrow corresponds to a side branch.)
 
 ![3Dreconstruction](./assets/3Dreconstruction.png)
